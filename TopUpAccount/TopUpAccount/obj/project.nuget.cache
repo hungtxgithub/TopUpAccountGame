@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "txsS3xiW/ECaSSNk8kScW9ek3E0v1dB7x/5UB3Fybp8p+Paw25D0GkwQeUScgjWvAKLetX/Fidn2TH7ZqbYZyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NTH\\Desktop\\New folder\\vs\\TopUpAccount\\TopUpAccount\\TopUpAccount\\TopUpAccount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTH\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

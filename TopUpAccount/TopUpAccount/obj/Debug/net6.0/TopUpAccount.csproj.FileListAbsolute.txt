@@ -1,0 +1,17 @@
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\bin\Debug\net6.0\TopUpAccount.exe
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\bin\Debug\net6.0\TopUpAccount.deps.json
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\bin\Debug\net6.0\TopUpAccount.runtimeconfig.json
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\bin\Debug\net6.0\TopUpAccount.dll
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\bin\Debug\net6.0\TopUpAccount.pdb
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.csproj.AssemblyReference.cache
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.AssemblyInfoInputs.cache
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.AssemblyInfo.cs
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.csproj.CoreCompileInputs.cache
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.csproj.CopyComplete
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.dll
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\refint\TopUpAccount.dll
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.pdb
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\TopUpAccount.genruntimeconfig.cache
+C:\Users\NTH\Desktop\New folder\vs\TopUpAccount\TopUpAccount\TopUpAccount\obj\Debug\net6.0\ref\TopUpAccount.dll
